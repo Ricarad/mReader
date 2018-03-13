@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mReader</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="choose_file">Select a file</string>
+</resources>
