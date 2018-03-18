@@ -6,7 +6,7 @@
 
     <include android:id="@+id/head" layout="@layout/head" />
 
-    <GridView
+       <GridView
         android:id="@+id/main_gv_bookshelf"
         android:numColumns="3"
         android:stretchMode="columnWidth"
